@@ -1,13 +1,13 @@
 # PROJETO DE EXTENSÃO - PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS EM ANDROID - ESTÁCIO
 
-# EcoSeed 🌱
+# EcoSeed 
 
 ### Funcionalidades:
 
   Este Projeto tem como objetivo promover práticas sustentáveis para o bem-estar e a educação ambiental, temas que são de extrema importância nos dias atuais. O EcoSeed, é  um software que permite o usuário a ter informações valiosas e de fácil acesso sobre o cultivo de plantas, o que não só contribui para a melhoria do bem-estar individual, mas também incentiva a adoção de práticas que beneficiam o meio ambiente. Através de uma plataforma interativa, o usuário pode adquirir conhecimentos sobre preservação ambiental. O EcoSeed, representa uma iniciativa poderosa para a extensão universitária, pois não apenas educa, mas também empodera a comunidade a agir em prol do meio ambiente, fomentando uma cultura de sustentabilidade e responsabilidade ambiental.
 
 
-### 🔨 Guia de instalação
+###  Guia de instalação
 
 ### Pré-requisitos
 
