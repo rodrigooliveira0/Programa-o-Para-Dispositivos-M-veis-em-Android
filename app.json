@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ecoseed",
+    "slug": "ecoseed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/intro.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
